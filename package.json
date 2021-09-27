@@ -1,5 +1,5 @@
 {
-  "name": "react_tailwind_starter_kit",
+  "name": "milenine",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -53,9 +53,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "autoprefixer": "^9.8.6",
-    "postcss": "^7.0.36",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.7"
-  }
+  "devDependencies": {}
 }
